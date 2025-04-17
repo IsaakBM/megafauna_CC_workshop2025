@@ -1,0 +1,47 @@
+::: top-banner
+:::
+
+---
+title: ""
+format: html
+---
+
+:::{.text-center}
+# 📂 Materiales del Taller
+:::
+
+:::{.callout-note appearance="simple"}
+
+Este espacio contiene documentos clave y presentaciones compartidas durante el taller.
+
+:::
+
+## 📄 Documentos
+
+- 📎 [Agenda del Taller (PDF)](2025_SB5-SPS_agenda-Spanish_v06.pdf)
+- 📎 [Resumen ejecutivo del proyecto SB5](recursos/resumen_proyecto_sb5.pdf)
+
+---
+
+## 🎤 Presentaciones
+
+- 🎞️ [Andrés Felipe Navia – Elasmobranquios (tiburones)](docs/presentacion_navia.pdf)
+- 🎞️ [Adriana Gonzáles-Pestana – Elasmobranquios (tiburones/rayas)](docs/presentacion_gonzales_pestana.pdf)
+- 🎞️ [Jeffrey Madrigal – Elasmobranquios (rayas/mantarrayas)](docs/presentacion_madrigal.pdf)
+- 🎞️ [Mario Pardo – Mamíferos marinos](docs/presentacion_pardo.pdf)
+- 🎞️ [Natalia Botero Acosta – Mamíferos marinos](docs/presentacion_botero.pdf)
+- 🎞️ [Shaleyla Kelez – Tortugas marinas](docs/presentacion_kelez.pdf)
+- 🎞️ [Nelly de Paz – Tortugas marinas](docs/presentacion_de_paz.pdf)
+- 🎞️ [Laura May Collado – Mamíferos marinos](docs/presentacion_may_collado.pdf)
+- 🎞️ [Gabriel Vianna – Elasmobranquios (tiburones)](docs/presentacion_vianna.pdf)
+- 🎞️ [César Peñaherrera – Elasmobranquios (tiburones)](docs/presentacion_penaherrera.pdf)
+- 🎞️ [Frank Garita – Mamíferos marinos](docs/presentacion_garita.pdf)
+- 🎞️ [Karla Barrientos Muñoz – Tortugas marinas](docs/presentacion_barrientos.pdf)
+- 🎞️ [Yulia Egorova – Modelos de distribución de especies (AquaX)](docs/presentacion_egorova.pdf)
+
+---
+
+### 📥 ¿No encuentras algo?
+
+Los participantes pueden seguir enviando presentaciones para incluir en esta sección. Para agregar más archivos, por favor contacta a **[Isaac Brito-Morales](mailto:ibrito@conservation.org)**.
+
