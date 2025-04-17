@@ -6,24 +6,25 @@ title: "Agenda general"
 format: html
 ---
 
-# Día 1 – Llegada
+## Día 1 – Llegada
 
-# Día 2 – Inicio de taller
-## Sesión 1: Bienvenida e Introducción
-## Sesión 2: Megafauna en el Pacífico del Este
-### Presentaciones científicas 1
-### Presentaciones científicas 2
-### Reflexiones y discusión estratégica
+## Día 2 – Inicio de taller
 
-# Día 3 – Megafauna y Cambio Climático
-## Sesión 3: Vulnerabilidad de la megafauna marina al cambio climático; rasgos biológicos y enfoques de modelación 
-## Actividad al aire libre (caminata y exploración)
-## Cena grupal (lugar por confirmar)
+### Sesión 1: Bienvenida e Introducción  
+### Sesión 2: Megafauna en el Pacífico del Este  
+#### Presentaciones científicas 1  
+#### Presentaciones científicas 2  
+#### Reflexiones y discusión estratégica
 
-# Día 4 – Ciencia Aplicada y Síntesis
-## Sesión 4: Aplicación del conocimiento y diseño de estrategias regionales
-## Sesión 5: Trabajo colaborativo: síntesis de aprendizajes por grupo de trabajo
-## Sesión 6: Planificación de próximos pasos y acciones del taller
-## Cena grupal (lugar por confirmar)
+## Día 3 – Megafauna y Cambio Climático  
+### Sesión 3: Vulnerabilidad de la megafauna...  
+### Actividad al aire libre (caminata y exploración)  
+### Cena grupal (lugar por confirmar)
 
-# Día 5 – Salida
+## Día 4 – Ciencia Aplicada y Síntesis  
+### Sesión 4: Aplicación del conocimiento...  
+### Sesión 5: Trabajo colaborativo...  
+### Sesión 6: Planificación de próximos pasos...  
+### Cena grupal (lugar por confirmar)
+
+## Día 5 – Salida
