@@ -1,0 +1,28 @@
+::: top-banner
+:::
+
+# Resumen del taller
+
+El objetivo de este taller es reunir a expertos regionales y colaboradores internacionales para apoyar la implementación de [Save the Blue Five](https://savethebluefive.net/), una iniciativa financiada por IKI enfocada en la conservación de megafauna marina en el Pacífico del Sureste. El proyecto se centra en ballenas, delfines, tiburones, rayas y tortugas marinas—especies carismáticas y ecológicamente fundamentales que enfrentan crecientes amenazas debido a presiones antropogénicas y a los efectos del cambio climático. Los participantes contribuirán al desarrollo de marcos colaborativos para evaluar los riesgos climáticos sobre la megafauna, identificar áreas prioritarias para su conservación y mejorar la disponibilidad de datos más allá de las fronteras jurisdiccionales. El taller también explorará enfoques innovadores para el seguimiento de estos organismos altamente migratorios, incluyendo sus asociaciones con características oceanográficas dinámicas y efímeras. El objetivo es generar estrategias coordinadas y basadas en evidencia científica que orienten la planificación espacial marina y apoyen la conservación de la biodiversidad a largo plazo en el Pacífico del Sureste.
+
+```{r, out.width = "100%", echo = FALSE}
+  knitr::include_graphics("images/cover.png")
+```
+
+## Reglas del taller y confidencialidad
+
+Esperamos que este taller sea un espacio para el diálogo abierto y transparente. Las discusiones se llevarán a cabo bajo las reglas de [Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule). Si utilizas redes sociales, te pedimos que respetes la sensibilidad de los temas tratados en el taller y seas discreto con lo que decidas publicar. Si vas a presentar en el taller y no deseas que tu contenido sea compartido en redes sociales, por favor indícalo claramente al inicio de tu presentación o en las diapositivas correspondientes.
+
+::: callout-note
+La Regla de Chatham House establece lo siguiente:
+
+*"Cuando una reunión, o parte de ella, se lleva a cabo bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación de quien la haya proporcionado, ni la de ningún otro participante."*
+:::
+
+## Agradecimientos
+
+El [Moore Center for Science de Conservation International](https://www.conservation.org/about/betty-and-gordon-moore-center-for-science-and-solutions) agradece al Gobierno Alemán y al financiamiento del programa IKI, así como a los socios del consorcio que forman parte del proyecto [Save the Blue Five](https://savethebluefive.net/) (CPPS, GIZ, y MarViva) por su apoyo para la realización de este taller.
+
+## Acerca de este sitio
+
+Este es un sitio web creado con Quarto. Para obtener más información sobre Quarto, visita la [documentación oficial de Quarto](https://quarto.org/docs/books/).
