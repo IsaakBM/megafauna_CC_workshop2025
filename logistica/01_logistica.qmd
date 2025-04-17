@@ -1,0 +1,27 @@
+::: top-banner
+:::
+
+# 📍 Lugar del Taller
+
+El taller se llevará a cabo en [**Las Olas Hotel**](https://www.lasolasresort.com/), ubicado en Playa La Barqueta, a aproximadamente 40 minutos de la ciudad de David, Panamá.
+
+El transporte desde el aeropuerto estará disponible para los participantes.
+
+``` {r, out.width = "100%", echo = FALSE}
+  knitr::include_graphics("labarqueta.png")
+```
+
+# 📞 **Contacto de Emergencia**  
+Si necesitas contactarnos con urgencia durante tu viaje o estancia en Panamá, por favor utiliza los siguientes números:
+
+- **Isaac Brito-Morales** – móvil / WhatsApp: +1 (805) 350-6678  
+- **Dylan Glave** – móvil / WhatsApp: +1 (415) 450-0419
+
+# 💻 **Participación en línea**  
+Para quienes se unan de forma virtual, por favor utilicen los siguientes datos de Zoom para conectarse.  
+Este enlace será el mismo para cada día del taller. Por favor, no lo compartas con otras personas.
+
+🔗 [Conectarse al taller vía Zoom](https://ucsb.zoom.us/j/87936564275?pwd=ukdq2oFmGkTFpjWM7BbKF3jabxrPce.1)
+
+- **Meeting ID:** 879 3656 4275  
+- **Passcode:** 313318
