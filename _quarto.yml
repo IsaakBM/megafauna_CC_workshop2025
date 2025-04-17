@@ -1,19 +1,43 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "megafauna_CC_workshop2025"
+  title: "Taxonomic Expert Workshop – SB5"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "🏠 Inicio"
+        file: 01_inicio.qmd
+      - text: "📅 Agenda"
+        file: agenda/index.qmd
+      - text: "👥 Participantes"
+        file: participantes/01_participantes.qmd
+      - text: "📍 Logística"
+        file: logistica/01_logistica.qmd
+      - text: "📂 Recursos"
+        file: recursos/materiales.qmd
+
+  sidebar:
+    style: docked
+    contents:
+      - section: "Agenda diaria"
+        contents:
+          - agenda/dia1.qmd
+          - agenda/dia2.qmd
+          - agenda/dia3.qmd
+          - agenda/dia4.qmd
+          - agenda/dia5.qmd
+  page-footer:
+    left: "© 2025 Isaac Brito-Morales"
+    right: "Save the Blue 5"
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
-
-editor: visual
-
+    page-layout: article
+    grid:
+      sidebar-width: 280px
+      body-width: 720px
+    lang: es
