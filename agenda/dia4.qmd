@@ -1,0 +1,81 @@
+---
+title: "Día 4 - Ciencia Aplicada y Síntesis"
+format: html
+---
+
+::: top-banner
+:::
+
+:::{.text-center}
+ *Jueves 01 de Mayo 2025*
+:::
+
+:::{.text-center}
+ *Facilitador: Dylan Glave*
+:::
+
+# Resumen de los principales aprendizajes y puntos clave del día 2 y 3 (09:00 – 09:15)
+
+
+# Sesión 4: Aplicación del conocimiento y diseño de estrategias regionales (09:15 – 10:30)
+::: {.callout-note appearance="simple"}
+- **Enfoque**: Sesión plenaria centrada en la integración del conocimiento generado durante el taller en planes de conservación concretos y colaborativos en el Pacífico del Sureste. Se discutirán enfoques metodológicos, desafíos en la aplicación de modelos, y estrategias para traducir resultados científicos en acciones regionales.
+
+    a.	Estrategias para integrar conocimiento científico en planificación espacial marina.
+    b.	Limitaciones de los enfoques actuales y oportunidades de innovación metodológica.
+    c.	Relevancia de los resultados del taller para la cooperación transfronteriza
+    d.  Prioridades comunes entre grupos taxonómicos.
+    e.  Cómo abordar la incertidumbre climática en los enfoques de conservación.
+    f.  Identificación de oportunidades para influir en procesos de gobernanza y toma de decisiones.
+:::
+
+---
+
+:::{.text-center}
+::: {.section-small}
+*Pausa para el café (10.30 - 11.00)*
+:::
+:::
+
+---
+
+# Sesión 5: Trabajo colaborativo: síntesis de aprendizajes por grupo de trabajo (11:00 – 12:30)
+::: {.callout-note appearance="simple"}
+- **Enfoque**: Los participantes se dividirán por áreas temáticas o taxonómicas para identificar elementos clave del taller y proponer ideas iniciales para productos concretos (publicaciones, líneas de investigación, recomendaciones de política, etc.).
+
+- Cada grupo compartirá una breve síntesis al final de la sesión.
+:::
+
+---
+
+:::{.text-center}
+::: {.section-small}
+*Pausa para el almuerzo (12.30 - 14.00)*
+:::
+:::
+
+---
+
+# Sesión 6: Planificación de próximos pasos y acciones del taller (14:00 – 16:00)
+::: {.callout-note appearance="simple"}
+- **Enfoque**: Esta sesión plenaria estará dedicada a consolidar los resultados del taller, establecer mecanismos de colaboración a futuro, y definir productos concretos que aseguren la continuidad del trabajo colectivo iniciado. Se propondrán líneas de acción tanto científicas como de incidencia regional, considerando oportunidades estratégicas a corto y mediano plazo.
+
+    a.	**Oportunidades para influir en procesos regionales e internacionales**: Discutir cómo los resultados del taller pueden contribuir a            plataformas como BBNJ, CMAR u otras agendas relevantes en la región. ¿Cómo canalizamos estos aportes de forma efectiva?
+    b.  **Publicación de resultados del taller**: Definir métodos de difusión (artículos científicos, informes técnicos, policy briefs)                 dirigidos a distintos públicos (tomadores de decisión, ONG, comunidades científicas y locales). Establecer grupos de trabajo y plazos           claros para el desarrollo de estos productos.
+    c.	**Ampliación del alcance y participación**: Estrategias para incluir a actores subrepresentados como comunidades locales y estados              insulares. Considerar herramientas como eventos virtuales, redes sociales y alianzas regionales para ampliar el impacto.
+    d.  **Sostenibilidad del esfuerzo**: Definir una estrategia de colaboración continua hacia futuros hitos científicos y políticos, incluyendo         nuevas oportunidades de financiamiento, publicaciones conjuntas y próximos encuentros presenciales o virtuales.
+
+- **Sesión preguntas y respuestas**: Espacio abierto para resolver dudas y confirmar próximos pasos.    
+
+- **Palabras de cierre**: Comentarios de cierre por parte de los coordinadores principales del taller (Conservation International).
+:::
+
+---
+
+:::{.text-center}
+::: {.section-small}
+*Cena grupal (lugar: Las Olas Hotel) (6:30 – 8:30pm)*
+:::
+:::
+
+---

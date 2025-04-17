@@ -1,0 +1,18 @@
+---
+title: "Día 5 – Salida"
+format: html
+---
+
+::: top-banner
+:::
+
+:::{.text-center}
+# **David, Panamá**
+### *Viernes 02 de Mayo 2025*
+:::
+
+::: {.callout-note appearance="simple"}
+- **11:00**  
+  Check-out y salidas de participantes  
+  *Transporte a cargo de Isaac y Dylan*
+:::

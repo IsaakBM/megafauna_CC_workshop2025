@@ -1,0 +1,26 @@
+---
+title: "Día 1 – Llegada"
+format: html
+---
+
+::: top-banner
+:::
+
+:::{.text-center}
+# **David, Panamá**
+### *28 de Abril 2025*
+:::
+
+::: {.callout-note appearance="simple"}
+- **5:00 – 5:30pm**  
+  Traslado desde el Aeropuerto Enrique Malek (David, Panamá) a Playa La Barqueta  
+  *Transporte a cargo de Isaac y Dylan*
+
+- **6:00pm**  
+  Registro en **Las Olas Hotel**  
+  *Dirección: Avenida Don Antonio Alanje, 0426-1371 La Barqueta, Panamá*
+
+- **7:30 – 9:00pm**  
+  Cena e introducción al objetivo del grupo de trabajo  
+  *Lugar: Las Olas Hotel*
+:::

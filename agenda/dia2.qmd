@@ -1,0 +1,133 @@
+---
+title: "Día 2 – Inicio de taller"
+format: html
+---
+
+::: top-banner
+:::
+
+:::{.text-center}
+ *Martes 29 de Abril 2025*
+:::
+
+:::{.text-center}
+ *Facilitador: Dylan Glave*
+:::
+
+# Sesión 1: Bienvenida e Introducción (09.00 - 10.30)
+::: {.callout-note appearance="simple"}
+
+- **Palabras de apertura**  
+Bienvenida a cargo de Christian Lavoie, Conservación International (CI).  
+
+- **Resumen del taller**  
+Presentación de los objetivos y la agenda del taller, destacando los temas principales, los resultados esperados y cómo se integran las         actividades de cada día.
+  
+- **Presentación de los participantes**  
+Ronda de presentaciones en la que todos los asistentes compartirán sus roles y objetivos para el taller.
+
+- **Contexto (Lee Hannah e Isaac Brito-Morales)**  
+Presentación del proyecto **“Save the Blue Five”** y sus principales objetivos: 
+
+    1. Fortalecer la cooperación regional y el conocimiento científico  para apoyar la planificación espacial marina en el Pacífico del Sureste, con un enfoque prioritario en la conservación de megafauna marina altamente migratoria.
+    2. Desarrollar modelos de distribución de especies e integrar datos oceanográficos relevantes mediante el trabajo conjunto entre instituciones científicas y de conservación.
+    3. Identificar áreas de importancia ecológica y proponer medidas de conservación  en la región.
+    
+- **Sesión preguntas y respuestas**  
+:::
+
+---
+
+:::{.text-center}
+::: {.section-small}
+*Pausa para el café (10.30 - 11.00)*
+:::
+:::
+
+---
+
+# Sesión 2: Megafauna en el Pacífico del Este; presentaciones científicas (11.00 - 13.00)
+::: {.callout-note appearance="simple"}
+- **Enfoque**: Cada presentación deberá abordar los siguientes puntos clave: 
+
+    a) Los principales rasgos de historia de vida.
+    b) Rasgos de historia de vida susceptibles al cambio climático.
+    c) Principales amenazas actuales que enfrenta el grupo 
+    (e.g., presión pesquera, pérdida de hábitat, contaminación, colisiones con embarcaciones.
+    d) Amenazas que podrían cambiar o intensificarse con el cambio climático 
+    (e.g., cambios en la distribución, alteración de hábitats, etc.). 
+    e) Datos disponibles y necesarios para cuantificar los puntos anteriores, incluyendo el uso de Modelos de Distribución de Especies (SDMs) u otras herramientas relevantes para evaluar riesgos y apoyar la planificación espacial marina.
+    
+- **Presentaciones**: 10-13 minutos max.
+
+    1.	Elasmobranquios (tiburones) – Andrés Felipe Navia.
+    2.	Elasmobranquios (tiburones/rayas) – Adriana Gonzáles-Pestana.
+    3.	Elasmobranquios (rayas/mantarrayas) – Jeffrey Madrigal.
+    4.	Mamíferos marinos – Mario Pardo.
+    5.	Mamíferos marinos – Natalia Botero Acosta.
+    6.	Tortugas marinas – Shaleyla Kelez.
+    7.	Tortugas marinas – Nelly de Paz.
+    8.	Mamíferos marinos – Laura May Collado.
+:::
+
+---
+
+:::{.text-center}
+::: {.section-small}
+*Pausa para el almuerzo (13.00 - 14.30)*
+:::
+:::
+
+---
+
+# Sesión 2 (cont.): Megafauna en el Pacífico del Este (14:30 - 16:00)
+::: {.callout-note appearance="simple"}
+- **Presentaciones**: 10-13 minutos max.
+
+    9.	Elasmobranquios (tiburones) – Gabriel Vianna.
+    10.	Elasmobranquios (tiburones) – César Peñaherrera.
+    11.	Mamíferos marinos – Frank Garita.
+    12.	Tortugas marinas – Karla Barrientos Muñoz
+    13.	Modelos de distribución de especies (AquaX) - Yulia Egorova.
+:::
+
+---
+
+:::{.text-center}
+::: {.section-small}
+*Pausa para el café (16.00 - 16.30)*
+:::
+:::
+
+---
+
+# Sesión 2 (cont.): Reflexiones y discusión estratégica (16:30 - 17:00)
+::: {.callout-note appearance="simple"}
+- **Reflexiones** sobre los aportes científicos del día y su relación con los objetivos del proyecto Save the Blue Five  
+(Moderadores: Isaac Brito-Morales, Lee Hannah)
+
+- **Breve repaso** de temas transversales emergentes en las presentaciones de megafauna: distribución espacial, amenazas, oportunidades de modelación, y vacíos de datos
+  
+- **Discusión** sobre oportunidades de colaboración regional y sinergias entre especies
+(Facilitador: Dylan Glave)
+
+- **Conversación abierta** sobre cómo integrar el conocimiento presentado en estrategias regionales de planificación espacial marina, considerando enfoques comunes y necesidades específicas por grupo taxonómico
+
+- **Identificación preliminar** de áreas o temas prioritarios para análisis conjunto o modelación
+
+- **Resumen** de los principales aprendizajes y puntos clave del día
+Isaac Brito-Morales
+
+- **Adelanto de los objetivos y actividades del Día 2**  
+Discusión colectiva sobre la organización temática de los próximos grupos de trabajo en torno a prioridades comunes identificadas durante las presentaciones.
+:::
+
+---
+
+:::{.text-center}
+::: {.section-small}
+*Cena grupal (lugar: Las Olas Hotel) (6:30 – 8:30pm)*
+:::
+:::
+
+---

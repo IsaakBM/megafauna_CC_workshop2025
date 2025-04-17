@@ -1,0 +1,66 @@
+---
+title: "Día 3 - Megafauna y Cambio Climático"
+format: html
+---
+
+::: top-banner
+:::
+
+:::{.text-center}
+ *Miércoles 30 de Abril 2025*
+:::
+
+:::{.text-center}
+ *Facilitador: Dylan Glave*
+:::
+
+
+# Sesión 3: Vulnerabilidad de la megafauna marina al cambio climático; rasgos biológicos y enfoques de modelación (09:00 – 12:30)
+::: {.callout-note appearance="simple"}
+- **Enfoque**: Explorar los rasgos de historia de vida que pueden hacer a la megafauna marina vulnerable al cambio climático, identificar los factores climáticos relevantes que podrían intensificar esa vulnerabilidad, y discutir cómo los Modelos de Distribución de Especies (SDMs) y otras herramientas podrían ser utilizadas para cuantificar estos riesgos. Esta sesión busca alinear el conocimiento biológico con los impactos del cambio climático en apoyo a la planificación espacial marina en el Pacífico Sureste.
+    
+- **09:30 – 10:45**: Revisión de rasgos de vulnerabilidad y definición de variables climáticas clave para cada grupo.
+
+    1.	Elasmobranquios - TBD
+    2.	Mamíferos marinos - TBD
+    3.	Tortugas marinas -TBD
+:::
+
+---
+
+:::{.text-center}
+::: {.section-small}
+*Pausa para el café (10.45 - 11.00)*
+:::
+:::
+
+---
+
+::: {.callout-note appearance="simple"}
+- **11:00 – 12:30**: Discusión sobre enfoques de modelación, disponibilidad de datos y cómo integrar la información biológica y climática en herramientas espaciales.
+
+    1.	Elasmobranquios - TBD
+    2.	Mamíferos marinos - TBD
+    3.	Tortugas marinas -TBD
+:::
+
+---
+
+:::{.text-center}
+::: {.section-small}
+*Pausa para el almuerzo (12.30 - 14.30)*
+:::
+:::
+
+---
+
+::: {.callout-note appearance="simple"}
+- **14:30 – 17:30**: Actividad al aire libre (caminata y exploración)
+- **Descripción**: Actividad al aire libre para fomentar el intercambio informal, fortalecer vínculos entre participantes y disfrutar del entorno natural de la zona. Se propone una caminata (hiking) o visita a un sitio de interés local, con detalles por confirmar según la logística y el clima.
+:::
+
+::: {.callout-note appearance="simple"}
+- **19:00 – 21:00**: Cena grupal (lugar por confirmar)
+- **Descripción**: Cena fuera del lugar del taller para continuar las conversaciones del día en un ambiente más distendido. Será también una oportunidad para compartir impresiones, fortalecer redes y celebrar los avances del taller.
+:::
+
