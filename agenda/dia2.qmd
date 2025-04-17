@@ -18,7 +18,7 @@ format: html
 ::: {.callout-note appearance="simple"}
 
 - **Palabras de apertura**  
-Bienvenida a cargo de Christian Lavoie, Conservación International (CI).  
+Bienvenida a cargo de Isaac Brito-Morales y Lee Hannah, Conservación International (CI).  
 
 - **Resumen del taller**  
 Presentación de los objetivos y la agenda del taller, destacando los temas principales, los resultados esperados y cómo se integran las         actividades de cada día.
@@ -26,7 +26,7 @@ Presentación de los objetivos y la agenda del taller, destacando los temas prin
 - **Presentación de los participantes**  
 Ronda de presentaciones en la que todos los asistentes compartirán sus roles y objetivos para el taller.
 
-- **Contexto (Lee Hannah e Isaac Brito-Morales)**  
+- **Contexto (Christian Lavoie)**  
 Presentación del proyecto **“Save the Blue Five”** y sus principales objetivos: 
 
     1. Fortalecer la cooperación regional y el conocimiento científico  para apoyar la planificación espacial marina en el Pacífico del Sureste, con un enfoque prioritario en la conservación de megafauna marina altamente migratoria.
