@@ -13,9 +13,7 @@ El objetivo de este taller es reunir a expertos regionales y colaboradores inter
 
 Esperamos que este taller sea un espacio para el diálogo abierto y transparente. Las discusiones se llevarán a cabo bajo las reglas de [Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule). Si utilizas redes sociales, te pedimos que respetes la sensibilidad de los temas tratados en el taller y seas discreto con lo que decidas publicar. Si vas a presentar en el taller y no deseas que tu contenido sea compartido en redes sociales, por favor indícalo claramente al inicio de tu presentación o en las diapositivas correspondientes.
 
-::: callout-note
-La Regla de Chatham House establece lo siguiente:
-
+::: {.callout-caution collapse="true" title="Regla de Chatham House"}
 *"Cuando una reunión, o parte de ella, se lleva a cabo bajo la Regla de Chatham House, los participantes son libres de utilizar la información recibida, pero no se puede revelar ni la identidad ni la afiliación de quien la haya proporcionado, ni la de ningún otro participante."*
 :::
 
