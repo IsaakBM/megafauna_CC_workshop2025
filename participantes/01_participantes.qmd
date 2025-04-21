@@ -7,10 +7,6 @@ A continuación se presenta la lista de participantes confirmados al taller:
 
 | **Nombre**                   | **Afiliación**                                    |
 |-----------------------------|---------------------------------------------------|
-| Christian Lavoie            | Conservation International                        |
-| Lee Hannah                  | Conservation International & UCSB                |
-| Isaac Brito-Morales         | Conservation International & UCSB                |
-| Dylan Glave                 | Conservation International                        |
 | Andrés Felipe Navia         | Fundación Scualus                                 |
 | Adriana Gonzáles-Pestana    | Charles Darwin University                         |
 | Natalia Botero Acosta       | Fundación Macuáticos & UCSC                       |
@@ -23,7 +19,10 @@ A continuación se presenta la lista de participantes confirmados al taller:
 | Mario Pardo                 | CICESE                                            |
 | Gabriel Vianna              | Fundación Charles Darwin                          |
 | Cesar Penaherrera           | Migramar                                          |
-| *Diana Pazmiño              | USFQ                                              |
 | *Laura May-Collado          | Vermont University & Panacetacea                 |
+| Christian Lavoie            | Conservation International                        |
+| Lee Hannah                  | Conservation International & UCSB                |
+| Isaac Brito-Morales         | Conservation International & UCSB                |
+| Dylan Glave                 | Conservation International                        |
 
 \* *Participación virtual*
