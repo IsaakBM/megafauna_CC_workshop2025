@@ -27,6 +27,11 @@ website:
           - agenda/dia3.qmd
           - agenda/dia4.qmd
           - agenda/dia5.qmd
+      - section: "Grupos temáticos"
+        contents:
+          - participantes/grupo1.qmd
+          - participantes/grupo2.qmd
+          - participantes/grupo3.qmd
   page-footer:
     left: "© 2025 Isaac Brito-Morales"
     right: "Save the Blue 5"

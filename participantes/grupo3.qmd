@@ -1,0 +1,17 @@
+::: top-banner
+:::
+
+---
+title: "Tortugas"
+format: html
+---
+
+## 🐢 Grupo 3 – Tortugas
+
+| Nombre                      | Rol         | Afiliación                        |
+|----------------------------|-------------|-----------------------------------|
+| Lee Hannah                 | Facilitador | Conservation International & UCSB|
+| Karla Barrientos Muñoz     | Anotadora   | Fundación Tortugas de Mar         |
+| Shaleyla Kelez             | Participante| ecOceánica                        |
+| Nelly de Paz               | Participante| ACOREMA                           |
+| Yulia Egorova              | Participante| University of Miami               |

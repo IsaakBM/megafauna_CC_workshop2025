@@ -1,0 +1,18 @@
+::: top-banner
+:::
+
+---
+title: "Elasmobranquios"
+format: html
+---
+
+## 🦈 Grupo 1 – Elasmobranquios
+
+| Nombre                      | Rol         | Afiliación                        |
+|----------------------------|-------------|-----------------------------------|
+| Isaac Brito-Morales        | Facilitador | Conservation International & UCSB|
+| César Peñaherrera          | Anotador    | Migramar                          |
+| Adriana Gonzáles-Pestana   | Participante| Charles Darwin University         |
+| Andrés Felipe Navia        | Participante| Fundación Scualus                 |
+| Gabriel Vianna             | Participante| Fundación Charles Darwin          |
+| Jeffrey Madrigal           | Participante| Mantas Costa Rica                 |
