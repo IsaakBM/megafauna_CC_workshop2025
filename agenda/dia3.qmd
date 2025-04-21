@@ -25,7 +25,7 @@ format: html
     2.	[Mamíferos marinos](../participantes/grupo2.html#mamiferos)
     3.	[Tortugas marinas](../participantes/grupo3.html#tortugas)
     
-    *Revisar información en la pestaña* **Grupos de trabajo**
+    Cada grupo compartirá una breve síntesis al final de la sesión.
 :::
 
 ---
@@ -45,7 +45,7 @@ format: html
     2.	[Mamíferos marinos](../participantes/grupo2.html#mamiferos)
     3.	[Tortugas marinas](../participantes/grupo3.html#tortugas)
     
-    *Revisar información en la pestaña* **Grupos de trabajo**
+    Cada grupo compartirá una breve síntesis al final de la sesión.
 :::
 
 ---
