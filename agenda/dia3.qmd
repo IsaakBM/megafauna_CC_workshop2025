@@ -21,9 +21,11 @@ format: html
     
 - **09:30 – 10:45**: Revisión de rasgos de vulnerabilidad y definición de variables climáticas clave para cada grupo.
 
-    1.	Elasmobranquios - TBD
-    2.	Mamíferos marinos - TBD
-    3.	Tortugas marinas -TBD
+    1.	[Elasmobranquios](../participantes/grupo1.html#elasmobranquios)
+    2.	[Mamíferos marinos](../participantes/grupo2.html#mamiferos)
+    3.	[Tortugas marinas](../participantes/grupo3.html#tortugas)
+    
+    *Revisar información en la pestaña* **Grupos de trabajo**
 :::
 
 ---
@@ -39,9 +41,11 @@ format: html
 ::: {.callout-note appearance="simple"}
 - **11:00 – 12:30**: Discusión sobre enfoques de modelación, disponibilidad de datos y cómo integrar la información biológica y climática en herramientas espaciales.
 
-    1.	Elasmobranquios - TBD
-    2.	Mamíferos marinos - TBD
-    3.	Tortugas marinas -TBD
+    1.	[Elasmobranquios](../participantes/grupo1.html#elasmobranquios)
+    2.	[Mamíferos marinos](../participantes/grupo2.html#mamiferos)
+    3.	[Tortugas marinas](../participantes/grupo3.html#tortugas)
+    
+    *Revisar información en la pestaña* **Grupos de trabajo**
 :::
 
 ---

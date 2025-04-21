@@ -6,7 +6,7 @@ title: "Elasmobranquios"
 format: html
 ---
 
-## 🦈 Grupo 1 – Elasmobranquios
+## 🦈 Grupo 1 – Elasmobranquios {#elasmobranquios}
 
 | Nombre                      | Rol         | Afiliación                        |
 |----------------------------|-------------|-----------------------------------|

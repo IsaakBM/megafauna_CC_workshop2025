@@ -6,7 +6,7 @@ title: "Mamíferos"
 format: html
 ---
 
-## 🐬 Grupo 2 – Mamíferos marinos
+## 🐬 Grupo 2 – Mamíferos marinos {#mamiferos}
 
 | Nombre                      | Rol         | Afiliación                        |
 |----------------------------|-------------|-----------------------------------|
