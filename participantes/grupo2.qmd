@@ -10,9 +10,9 @@ format: html
 
 | Nombre                      | Rol         | Afiliación                        |
 |----------------------------|-------------|-----------------------------------|
-| Christian Lavoie           | Facilitador | Conservation International        |
-| Mario Pardo                | Anotador    | CICESE                            |
+| Dylan Glave                | Facilitador | Conservation International        |
+| Christian Lavoie           | Anotador    | Conservation International        |
+| Mario Pardo                | Participante| CICESE                            |
 | Natalia Botero Acosta      | Participante| Fundación Macuáticos & UCSC       |
 | Frank Garita               | Participante| Panacetacea                       |
 | Laura May Collado          | Participante| Vermont University & Panacetacea |
-| Dylan Glave                | Participante| Conservation International        |
