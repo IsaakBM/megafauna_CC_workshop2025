@@ -5,24 +5,24 @@
 
 A continuación se presenta la lista de participantes confirmados al taller:
 
-| **Nombre**                   | **Afiliación**                                    |
-|-----------------------------|---------------------------------------------------|
-| Andrés Felipe Navia         | Fundación Scualus                                 |
-| Adriana Gonzáles-Pestana    | Charles Darwin University                         |
-| Natalia Botero Acosta       | Fundación Macuáticos & UCSC                       |
-| Karla Barrientos Muñoz      | Fundación Tortugas de Mar                         |
-| Shaleyla Kelez              | ecOceánica                                        |
-| Nelly de Paz                | ACOREMA                                           |
-| Jeffrey Madrigal            | Mantas Costa Rica                                 |
-| Yulia Egorova               | University of Miami                               |
-| Frank Garita                | Panacetacea                                       |
-| Mario Pardo                 | CICESE                                            |
-| Gabriel Vianna              | Fundación Charles Darwin                          |
-| Cesar Penaherrera           | Migramar                                          |
-| *Laura May-Collado          | Vermont University & Panacetacea                 |
-| Christian Lavoie            | Conservation International                        |
-| Lee Hannah                  | Conservation International & UCSB                |
-| Isaac Brito-Morales         | Conservation International & UCSB                |
-| Dylan Glave                 | Conservation International                        |
+| **Nombre** | **Afiliación** |
+|------------|----------------|
+| <a href="https://squalus.org/index.php/colombia/" target="_blank">Andrés Felipe Navia</a> | Fundación Scualus |
+| <a href="https://researchers.cdu.edu.au/en/persons/adriana-gonzalez-pestana" target="_blank">Adriana Gonzáles-Pestana</a> | Charles Darwin University |
+| <a href="https://www.instagram.com/macuaticos/" target="_blank">Natalia Botero Acosta</a> | Fundación Macuáticos & UCSC |
+| <a href="https://fundaciontourtugas.org/" target="_blank">Karla Barrientos Muñoz</a> | Fundación Tortugas de Mar |
+| <a href="https://www.ecoceanica.org/shaleyla" target="_blank">Shaleyla Kelez</a> | ecOceánica |
+| <a href="https://www.researchgate.net/profile/Nelly-De-Paz-Campos" target="_blank">Nelly de Paz Campos</a> | ACOREMA |
+| <a href="https://www.mantatrust.org/mantas-costa-rica" target="_blank">Jeffry Madrigal</a> | Mantas Costa Rica |
+| <a href="https://people.miami.edu/profile/4fd08a9092e08f6da5b330184ade8d86" target="_blank">Yulia Egorova</a> | University of Miami |
+| <a href="https://www.linkedin.com/in/frank-garita-05321072/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Frank Garita</a> | Panacetacea |
+| <a href="https://www.linkedin.com/in/mario-a-pardo-cicese/" target="_blank">Mario Pardo</a> | CICESE |
+| <a href="https://www.darwinfoundation.org/es/conocenos/our-people2/meet-our-team/gabriel-vianna/" target="_blank">Gabriel Vianna</a> | Fundación Charles Darwin |
+| <a href="https://www.linkedin.com/in/crpenaherrera/" target="_blank">César Peñaherrera</a> | Migramar |
+| <a href="https://www.uvm.edu/cas/biology/profile/laura-j-may-collado" target="_blank">*Laura May-Collado</a> | Vermont University & Panacetacea |
+| Christian Lavoie | Conservation International |
+| <a href="https://www.conservation.org/experts-list/dr-lee-hannah" target="_blank">Lee Hannah</a> | Conservation International & UCSB |
+| <a href="https://isaakbm.github.io/ibm-personalweb/" target="_blank">Isaac Brito-Morales</a> | Conservation International & UCSB |
+| Dylan Glave | Conservation International |
 
 \* *Participación virtual*
