@@ -27,17 +27,17 @@ Este espacio contiene documentos clave y presentaciones compartidas durante el t
 ## 🎤 Presentaciones
 
 - 🎞️ [Andrés Felipe Navia – Elasmobranquios (tiburones)](docs/presentacion_navia.pdf)
-- 🎞️ [Adriana Gonzáles-Pestana – Elasmobranquios (tiburones/rayas)](docs/presentacion_gonzales_pestana.pdf)
+- 🎞 [Adriana Gonzáles-Pestana – Elasmobranquios (tiburones/rayas](AGonzalez.pdf)
 - 🎞️ [Jeffrey Madrigal – Elasmobranquios (rayas/mantarrayas)](docs/presentacion_madrigal.pdf)
 - 🎞 [Mario Pardo – Mamíferos marino](MPardo_v02-forweb.pdf)
 - 🎞️ [Natalia Botero Acosta – Mamíferos marinos](docs/presentacion_botero.pdf)
 - 🎞️ [Shaleyla Kelez – Tortugas marinas](docs/presentacion_kelez.pdf)
 - 🎞️ [Nelly de Paz – Tortugas marinas](docs/presentacion_de_paz.pdf)
 - 🎞️ [Laura May Collado – Mamíferos marinos](docs/presentacion_may_collado.pdf)
-- 🎞️ [Gabriel Vianna – Elasmobranquios (tiburones)](docs/presentacion_vianna.pdf)
+- 🎞 [Gabriel Vianna – Elasmobranquios (tiburones](GVianna.pdf)
 - 🎞️ [César Peñaherrera – Elasmobranquios (tiburones)](docs/presentacion_penaherrera.pdf)
-- 🎞️ [Frank Garita – Mamíferos marinos](docs/presentacion_garita.pdf)
-- 🎞️ [Karla Barrientos Muñoz – Tortugas marinas](docs/presentacion_barrientos.pdf)
+- 🎞 [Frank Garita – Mamíferos marino](FGarita.pdf)
+- 🎞 [Karla Barrientos Muñoz – Tortugas marina](KBarrientos.pdf)
 - 🎞️ [Yulia Egorova – Modelos de distribución de especies (AquaX)](docs/presentacion_egorova.pdf)
 
 ---
