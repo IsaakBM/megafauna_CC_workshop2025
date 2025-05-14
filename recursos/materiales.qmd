@@ -38,7 +38,7 @@ Este espacio contiene documentos clave y presentaciones compartidas durante el t
 - 🎞️ [César Peñaherrera – Elasmobranquios (tiburones)](docs/presentacion_penaherrera.pdf)
 - 🎞 [Frank Garita – Mamíferos marino](FGarita.pdf)
 - 🎞 [Karla Barrientos Muñoz – Tortugas marina](KBarrientos.pdf)
-- 🎞️ [Yulia Egorova – Modelos de distribución de especies (AquaX)](docs/presentacion_egorova.pdf)
+- 🎞 [[Yulia Egorova – Modelos de distribución de especies (AquaX](YEgorova.pdf)
 
 ---
 
