@@ -34,7 +34,7 @@ Este espacio contiene documentos clave y presentaciones compartidas durante el t
 - 🎞 [Shaleyla Kelez – Tortugas marina](SKelez.pdf)
 - 🎞 [Nelly de Paz – Tortugas marina](NdPaz.pdf)
 - 🎞️ [Laura May Collado – Mamíferos marinos](docs/presentacion_may_collado.pdf)
-- 🎞 [Gabriel Vianna – Elasmobranquios (tiburones](GVianna.pdf)
+- 🎞 [Gabriel Vianna – Elasmobranquios (tiburones)](GVianna.pdf)
 - 🎞️ [César Peñaherrera – Elasmobranquios (tiburones)](docs/presentacion_penaherrera.pdf)
 - 🎞 [Frank Garita – Mamíferos marino](FGarita.pdf)
 - 🎞 [Karla Barrientos Muñoz – Tortugas marina](KBarrientos.pdf)
