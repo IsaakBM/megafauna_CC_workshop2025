@@ -26,13 +26,13 @@ Este espacio contiene documentos clave y presentaciones compartidas durante el t
 
 ## 🎤 Presentaciones
 
-- 🎞️ [Andrés Felipe Navia – Elasmobranquios (tiburones)](docs/presentacion_navia.pdf)
+- 🎞 [Andrés Felipe Navia – Elasmobranquios (tiburones)](AFNavia.pdf)
 - 🎞 [Adriana Gonzáles-Pestana – Elasmobranquios (tiburones/rayas)](AGonzalez.pdf)
 - 🎞️ [Jeffrey Madrigal – Elasmobranquios (rayas/mantarrayas)](docs/presentacion_madrigal.pdf)
 - 🎞 [Mario Pardo – Mamíferos marino](MPardo_v02-forweb.pdf)
 - 🎞 [Natalia Botero Acosta – Mamíferos marino](NBA.pdf)
-- 🎞️ [Shaleyla Kelez – Tortugas marinas](docs/presentacion_kelez.pdf)
-- 🎞️ [Nelly de Paz – Tortugas marinas](docs/presentacion_de_paz.pdf)
+- 🎞 [Shaleyla Kelez – Tortugas marina](SKelez.pdf)
+- 🎞 [Nelly de Paz – Tortugas marina](NdPaz.pdf)
 - 🎞️ [Laura May Collado – Mamíferos marinos](docs/presentacion_may_collado.pdf)
 - 🎞 [Gabriel Vianna – Elasmobranquios (tiburones](GVianna.pdf)
 - 🎞️ [César Peñaherrera – Elasmobranquios (tiburones)](docs/presentacion_penaherrera.pdf)
