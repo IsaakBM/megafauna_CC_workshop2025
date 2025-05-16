@@ -33,7 +33,7 @@ Este espacio contiene documentos clave y presentaciones compartidas durante el t
 - 🎞 [Natalia Botero Acosta – Mamíferos marino](NBA.pdf)
 - 🎞 [Shaleyla Kelez – Tortugas marina](SKelez.pdf)
 - 🎞 [Nelly de Paz – Tortugas marina](NdPaz.pdf)
-- 🎞️ [Laura May Collado – Mamíferos marinos](docs/presentacion_may_collado.pdf)
+- 🎞 [Laura J May-Collado – Mamíferos marino](LJMayCollado.pdf)
 - 🎞 [Gabriel Vianna – Elasmobranquios (tiburones)](GVianna.pdf)
 - 🎞️ [César Peñaherrera – Elasmobranquios (tiburones)](docs/presentacion_penaherrera.pdf)
 - 🎞 [Frank Garita – Mamíferos marino](FGarita.pdf)
